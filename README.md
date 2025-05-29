@@ -52,5 +52,5 @@
 
 
 ---
+![Visitor Badge](https://komarev.com/ghpvc/?username=mmmmzxe&style=flat-square)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mmmmzxe.mmmmzxe)
