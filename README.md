@@ -52,5 +52,6 @@
 
 
 ---
-![Visitor Badge](https://komarev.com/ghpvc/?username=mmmmzxe&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=mmmmzxe&style=for-the-badge&color=58A6FF)
+
 
