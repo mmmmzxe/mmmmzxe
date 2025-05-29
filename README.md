@@ -48,8 +48,7 @@
 
 
 ### 👩💻 Daily Coding Stats
-[![wakatime](https://wakatime.com/badge/user/waka_e843f348-3d4b-4f22-b637-cbf256e72275.svg)](https://wakatime.com/@mmmmzxe)
-
+[![wakatime](https://wakatime.com/badge/user/095c7e06-75d7-47d9-80d3-6dbedc65ef5f.svg)](https://wakatime.com/@095c7e06-75d7-47d9-80d3-6dbedc65ef5f)
 
 
 ---
