@@ -2,8 +2,8 @@ name: Update GitHub Streak Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # يحدث كل يوم الساعة 00:00 UTC
-  workflow_dispatch:      # يسمح بالتشغيل اليدوي
+    - cron: '0 0 * * *' 
+  workflow_dispatch:    
 
 jobs:
   update-badge:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: '3.x'
 
       - name: Install dependencies
         run: pip install requests
