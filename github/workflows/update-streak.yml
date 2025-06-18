@@ -2,8 +2,8 @@ name: Update GitHub Streak Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *' # كل يوم الساعة 00:00 UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # يحدث كل يوم الساعة 00:00 UTC
+  workflow_dispatch:      # يسمح بالتشغيل اليدوي
 
 jobs:
   update-badge:
@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
+          git add README.md
           git commit -m "Update streak badge" || echo "No changes to commit"
           git push
