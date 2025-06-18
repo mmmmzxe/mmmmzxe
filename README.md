@@ -24,7 +24,8 @@
 
 ---
 
-### 🌟 GitHub Highlights
+## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
