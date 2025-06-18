@@ -26,7 +26,7 @@
 
 ## 🔥 GitHub Streak
 <!-- BEGIN_STREAK -->
-<!-- This line will be replaced -->
+![Streak](https://img.shields.io/badge/Streak-🔥%200%20days-orange?style=for-the-badge)
 <!-- END_STREAK -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=dark)
