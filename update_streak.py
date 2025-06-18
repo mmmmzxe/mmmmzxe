@@ -19,3 +19,17 @@ badge = f"![Streak](https://img.shields.io/badge/Streak-🔥%20{days}%20days-ora
 
 with open("streak-badge.md", "w", encoding="utf-8") as f:
     f.write(badge)
+
+with open("README.md", "r", encoding="utf-8") as f:
+    content = f.read()
+
+new_content = re.sub(
+    r"<!-- BEGIN_STREAK -->(.*?)<!-- END_STREAK -->",
+    f"<!-- BEGIN_STREAK -->\n{badge}<!-- END_STREAK -->",
+    content,
+    flags=re.DOTALL
+)
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new_content)
+
