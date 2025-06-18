@@ -25,6 +25,9 @@
 ---
 
 ## 🔥 GitHub Streak
+<!-- BEGIN_STREAK -->
+<!-- This line will be replaced -->
+<!-- END_STREAK -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=dark)
 
