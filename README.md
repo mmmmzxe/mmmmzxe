@@ -25,7 +25,7 @@
 ---
 
 ### 🌟 GitHub Highlights
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&background=000000&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Maryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=radical)](https://github.com/mmmmzxe)
 
