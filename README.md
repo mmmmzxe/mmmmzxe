@@ -51,10 +51,7 @@
 
 ---
 
-
-### 👩💻 Daily Coding Stats
-[![wakatime](https://wakatime.com/badge/user/095c7e06-75d7-47d9-80d3-6dbedc65ef5f.svg)](https://wakatime.com/@095c7e06-75d7-47d9-80d3-6dbedc65ef5f)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&background=000000&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mmmmzxe&style=for-the-badge&color=58A6FF)
