@@ -10,7 +10,6 @@
 
 ### 🚀 Portfolio Projects
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-FF4088?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-maryem-mostafa.netlify.app/)
-[![Live Demo](https://img.shields.io/badge/🚀_Movie_App-000000?style=for-the-badge&logo=react)](https://github.com/mmmmzxe/Movies-1)
 
 ---
 
