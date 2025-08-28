@@ -34,6 +34,8 @@
 |---------|------------|-----------|
 | **[Kengster Movies](https://github.com/mmmmzxe/Movies-1)** | Next.js, TMDB API | [![Demo](https://img.shields.io/badge/🎬_Live_Demo-FF6B6B?style=flat)](https://your-movie-demo.com) |
 | **[E-Jewelry Store](https://github.com/mmmmzxe/e-jewelry)** | React.js, Tailwind CSS | [![Demo](https://img.shields.io/badge/💍_Live_Demo-FF6B6B?style=flat)](https://e-jewelry-demo.netlify.app/) |
+| **[foodrink](https://github.com/mmmmzxe/e-jewelry)** | React.js, Tailwind CSS | [![Demo](https://img.shields.io/badge/💍_Live_Demo-FF6B6B?style=flat)](https://foodrink.netlify.app//) |
+
 
 ---
 
