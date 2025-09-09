@@ -46,7 +46,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri&stroke=EB1779&ring=EB1779&currStreakLabel=EB1779&background=45%2C070122%2C140F18&border=EBEBEB&fire=EB5454&currStreakNum=EBEBEB&sideNums=EBEBEB&sideLabels=CECECE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mmmmzxe&style=for-the-badge&color=58A6FF)
