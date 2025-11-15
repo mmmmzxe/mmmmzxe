@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=dark)
 
 
-[![Maryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=rose_pine)](https://github.com/mmmmzxe)
+[![Maryem Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=rose_pine&include_all_commits=true&custom_title=Maryem%20Mostafa's%20GitHub%20Stats%20(2025))](https://github.com/mmmmzxe)
 
 ---
 
