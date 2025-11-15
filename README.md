@@ -42,7 +42,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 ### 💌 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmmmzxe/)
