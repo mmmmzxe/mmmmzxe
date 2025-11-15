@@ -42,8 +42,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 ---
 
 ### 💌 Let's Connect
