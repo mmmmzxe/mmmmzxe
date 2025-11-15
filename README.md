@@ -25,17 +25,49 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=dark)
 
 ## 📊 Maryem's GitHub Stats
+<!-- github-card.svg: simple customizable SVG card -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-label="Maryem's GitHub Stats">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0f172a; rx: 14px; }
+      .card { fill: url(#g); opacity: 0.06; }
+      .title { font: 700 20px/1 "Inter", sans-serif; fill: #e6edf3; }
+      .sub { font: 400 13px/1 "Inter", sans-serif; fill: #9aa8b6; }
+      .stat { font: 700 18px/1 "Inter", sans-serif; fill: #ffffff; }
+    </style>
+  </defs>
 
-[![Main Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=rose_pine)](https://github.com/mmmmzxe)
+  <rect x="6" y="6" width="708" height="208" rx="12" class="bg"/>
+  <rect x="24" y="24" width="672" height="172" rx="10" class="card"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=rose_pine)](https://github.com/mmmmzxe)
+  <!-- Left: avatar + name -->
+  <g transform="translate(40,40)">
+    <circle cx="36" cy="36" r="36" fill="#111827" />
+    <!-- replace href with your avatar url or keep blank -->
+    <image x="0" y="0" width="72" height="72" href="https://avatars.githubusercontent.com/mmmmzxe?s=200" clip-path="circle(36px at 36px 36px)"/>
+    <text x="92" y="28" class="title">Maryem Mostafa</text>
+    <text x="92" y="50" class="sub">@mmmmzxe — Frontend Dev</text>
+  </g>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmmmzxe&theme=rose_pine&hide_border=true)](https://github.com/mmmmzxe)
+  <!-- Right: stats -->
+  <g transform="translate(40,120)">
+    <text x="0" y="0" class="stat">⭐ 1.2k</text>
+    <text x="0" y="24" class="sub">Total Stars</text>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmmmzxe&theme=rose_pine)](https://github.com/mmmmzxe)
+    <text x="160" y="0" class="stat">📦 42</text>
+    <text x="160" y="24" class="sub">Public Repos</text>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mmmmzxe&theme=rose_pine)](https://github.com/mmmmzxe)
+    <text x="320" y="0" class="stat">👥 180</text>
+    <text x="320" y="24" class="sub">Followers</text>
+  </g>
 
+  <!-- footer note -->
+  <text x="40" y="200" class="sub">Updated: dynamic — replace numbers with real data or fetch from API</text>
+</svg>
 
 ---
 
