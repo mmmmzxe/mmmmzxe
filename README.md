@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&width=435&lines=Front-End+Developer;Next.js+%7C+React.js+Specialist;UI%2FUX+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 
-</div>
+
 
 ---
 
@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmzxe&layout=compact&theme=dark)
 
 
-[![Maryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=radical)](https://github.com/mmmmzxe)
+[![Maryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmmzxe&show_icons=true&theme=rose_pine)](https://github.com/mmmmzxe)
 
 ---
 
